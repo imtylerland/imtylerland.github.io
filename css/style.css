@@ -1,0 +1,140 @@
+.navbar {
+	background: #222;
+}
+.navbar .navbar-brand {
+	color: #FDFDF8;
+	font-size: 1.5em;
+  font-weight: bold;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: #FDFDF8;
+	font-size: 1.25em;
+}
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:hover,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-inverse .navbar-nav>.active>a {
+	background: #222;
+	border-bottom: 5px solid #FDFDF8;
+}
+
+.background222 {
+  background-color: #222;
+}
+
+.backgroundmoonlight {
+  background-color: #FDFDF8;
+}
+
+.jumbotron {
+  padding-top: 100px;
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 100px;
+}
+
+.jumbotron h1 {
+  color: #FDFDF8;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: "Nixie One", Georgia;
+}
+
+.jumbotron h2 {
+  color: #FDFDF8;
+  font-size: 20px;
+  font-family: "Nixie One", Georgia;
+}
+
+.jumbotron h3 {
+  color: #222;
+  font-size: 50px;
+  font-weight: 800;
+  font-family: "Nixie One", Georgia;
+}
+
+.jumbotron h4 {
+  color: #FDFDF8;
+	font-size: 50px;
+	font-weight: bold;
+	font-family: "Nixie One", Georgia;
+}
+
+.jumbotron h5 {
+  color: #222;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Nixie One", Georgia;
+  padding-top: 30px;
+}
+
+.jumbotron p {
+  color: #222;
+  font-size: 20px;
+  font-family: "Nixie One", Georgia;
+	font-weight: 800;
+}
+
+.border {
+  border: solid;
+  border-color: #FDFDF8;
+}
+
+.border2 {
+  border: solid;
+  border-color: #222;
+	padding: 30px;
+}
+
+.jumbotron h6 {
+  color: #222;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: "Nixie One", Georgia;
+}
+
+.botpadding {
+  padding-bottom: 50px;
+}
+#contact .btn-primary {
+	background: #222;
+}
+
+#contact a {
+  font-family: "Nixie One", Georgia;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#contact label {
+	color: #FDFDF8;
+}
+
+.name {
+  animation: shake 1s;
+}
+
+.pad {
+  padding-right: 10px;
+}
+
+.projecttitle {
+	color: #000;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: "Montserrat", Georgia;
+}
+
+.projectlang {
+	color: black;
+  font-size: 22px;
+  font-weight: bold;
+  font-family: "Montserrat", Georgia;
+}
+
+.projectdesc {
+	color: #000;
+  font-size: 16px;
+  font-family: "Montserrat", Georgia;
+}
